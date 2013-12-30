@@ -1,5 +1,6 @@
 zoogoer
 =======
+英 [zu:ɡə'ʊɪr] 美 [zu:ɡə'ʊɪr]
 
 A ingenious zoookeeper client wrapper.
 
